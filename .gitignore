@@ -1,0 +1,25 @@
+    # Virtual environment
+    venv/
+    .venv/
+
+    # Byte-compiled Python files
+    __pycache__/
+    *.py[cod]
+
+    # Build artifacts
+    build/
+    dist/
+    *.egg-info/
+
+    # IDE-specific files
+    .vscode/
+    .idea/
+
+    # OS-specific files
+    .DS_Store
+    Thumbs.db
+
+    # Local configuration/database
+    .env
+    local_settings.py
+    db.sqlite3
